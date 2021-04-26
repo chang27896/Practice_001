@@ -1,2 +1,2 @@
 # Practice_001
-Kust for practice using github
+Just for practice using github
