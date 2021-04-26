@@ -1,1 +1,2 @@
-# Practive_001
+# Practice_001
+Kust for practice using github
