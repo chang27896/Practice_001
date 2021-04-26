@@ -1,2 +1,3 @@
 # Practice_001
-Just for practice using github
+Just for practice javascript
+https://youtu.be/dtKciwk_si4
